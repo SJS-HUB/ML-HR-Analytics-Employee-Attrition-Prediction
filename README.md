@@ -34,9 +34,9 @@ High employee attrition increases operational costs and affects team productivit
 
 | Model               | Train Accuracy | Test Accuracy | Notes                     |
 |--------------------|----------------|---------------|---------------------------|
-| Logistic Regression| 71.6%          | 74.4%         | Underfit but stable       |
-| KNN Classifier     | 100%           | 61.5%         | Overfit                   |
-| Decision Tree      | 99.8%          | 72.1%         | Overfit                   |
+| Logistic Regression| 72%            | 74%           | Underfit but stable       |
+| KNN Classifier     | 100%           | 62%           | Overfit                   |
+| Decision Tree      | 100%           | 72%           | Overfit                   |
 | Random Forest      | 100%           | 87.1%         | Strong generalization     |
 | AdaBoost           | 86%            | 84%           | Good balance              |
 | Gradient Boost     | 93.5%          | 86.3%         | Best trade-off            |
